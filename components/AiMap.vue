@@ -1,0 +1,1 @@
+<template><div>AiMap Component</div></template>

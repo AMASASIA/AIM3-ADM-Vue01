@@ -1,0 +1,1 @@
+<template><div>VideoChat Component</div></template>
